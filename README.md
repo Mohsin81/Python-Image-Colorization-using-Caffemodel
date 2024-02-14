@@ -1,10 +1,10 @@
 # Python-Image-Colorization-using-Caffemodel
 How it works:
 
-To run:
 ![Screenshot from 2024-02-14 19-59-27](https://github.com/Mohsin81/Python-Image-Colorization-using-Caffemodel/assets/80098269/d6d759a7-1d12-4375-b6e5-34744f87b48a)
 ![Screenshot from 2024-02-14 20-02-11](https://github.com/Mohsin81/Python-Image-Colorization-using-Caffemodel/assets/80098269/05a491ef-20df-441f-a840-7e72e2c40573)
 
+TO RUN:
 
 git clone https://github.com/Mohsin81/Python-Image-Colorization-using-Caffemodel.git
 

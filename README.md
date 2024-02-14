@@ -7,6 +7,7 @@ git clone https://github.com/Mohsin81/Python-Image-Colorization-using-Caffemodel
 cd Python-Image-Colorization-using-Caffemodel
 
 pip install numpy
+
 pip install opencv-python
 
 Download the Caffemodel through the Google drive drink here: https://drive.google.com/file/d/1pM-H07JmkW9kIxuQO6mcNKFbzQHT9cfZ/view?usp=sharing

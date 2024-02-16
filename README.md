@@ -14,7 +14,7 @@ TO RUN:
 
 `pip install opencv-python`
 
-Download the Caffemodel through the Google drive drink here: https://drive.google.com/file/d/1pM-H07JmkW9kIxuQO6mcNKFbzQHT9cfZ/view?usp=sharing
+Download the Caffemodel through the Google drive link here: https://drive.google.com/file/d/1pM-H07JmkW9kIxuQO6mcNKFbzQHT9cfZ/view?usp=sharing
 
 move the downloaded model to models/ folder
 
